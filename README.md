@@ -1,6 +1,6 @@
 # Basic Budget Tracker
 ## Description
-Basic deposit/expense tracker for budget management, designed using progressive web application technologies. This application provides the user with a simply way to track their everyday expenses and earnings with or without a connection. 
+Basic deposit & expense tracker for budget management, designed using progressive web application technologies. This application provides the user with a simply way to track their everyday expenses and earnings with or without a connection. 
 
 
 ## Table of Contents
